@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://manliuxb.github.io/sitemap.xml
