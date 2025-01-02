@@ -6,7 +6,7 @@
     <description>Recent content on 有所思</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 10 Jul 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 20:14:22 +0800</lastBuildDate>
     <atom:link href="https://manliuxb.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theme preview</title>
@@ -23,6 +23,13 @@
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
 Cobra Viper J Walter Weatherman Cast Learn more and contribute on GitHub.</description>
+    </item>
+    <item>
+      <title>言之即错</title>
+      <link>https://manliuxb.github.io/post/%E8%A8%80%E4%B9%8B%E5%8D%B3%E9%94%99/</link>
+      <pubDate>Thu, 02 Jan 2025 20:14:22 +0800</pubDate>
+      <guid>https://manliuxb.github.io/post/%E8%A8%80%E4%B9%8B%E5%8D%B3%E9%94%99/</guid>
+      <description></description>
     </item>
     <item>
       <title>This is a hidden post.</title>
